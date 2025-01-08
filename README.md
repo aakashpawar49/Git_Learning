@@ -1,4 +1,4 @@
-**Tic Tac Toe Game**
+#ic Tac Toe Game
 
 Tic Tac Toe is a two-player game (one of them being played by computer or human). In this game, there is a board with 3 x 3 squares.
 
